@@ -1,5 +1,5 @@
 # Elastic auditd_manager Integration Configuration File Base
-This repository contains my tuned (for detection engineering, NOT production) auditd_manager configuration (mostly originating from Neo23x0's Auditd configuration available at https://github.com/Neo23x0/auditd/blob/master/audit.rules).
+This repository contains my tuned (for detection engineering, NOT production) auditd_manager configuration (mostly originating from [Neo23x0's Auditd configuration](https://github.com/Neo23x0/auditd/blob/master/audit.rules)).
 
 ## Disclaimer
 This configuration is mostly a test / detection engineering configuration focused on capturing as much data as possible, and therefore captures A LOT of events. Take this configuration as a base, and remove everything that you do not need. For example, this configuration includes:
